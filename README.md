@@ -1,5 +1,5 @@
 # byte-dynamics-auth-system
 
-This repository demonstrates team collaboration,
-code version control, and secure authentication
-development for the company mobile application.
+Sample users and authentication files in this repository
+are generated for demonstration using AI-based mock data.
+
